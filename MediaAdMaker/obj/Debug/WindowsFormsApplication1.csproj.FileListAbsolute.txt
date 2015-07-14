@@ -1,0 +1,11 @@
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\bin\Debug\CommonForms.dll
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\bin\Debug\GifComponents.dll
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\myProjects\emenu - 560 - backup\emenu\master\myResturant\Restaurant_Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache

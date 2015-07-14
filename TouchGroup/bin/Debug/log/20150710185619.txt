@@ -1,0 +1,8 @@
+App Version = 0.0.1.32288
+OS : Microsoft Windows NT 6.1.7601 Service Pack 1
+64 Bit Operating System
+ProcessorCount:  8
+C:\Windows\system32
+UserName:  edwin
+============================================
+7/10/2015 6:56:19 PM [INFO] Splash Started

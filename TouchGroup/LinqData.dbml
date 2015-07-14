@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="dbmain" Class="LinqDataDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=(localdb)\v11.0;Initial Catalog=dbmain;Integrated Security=True" SettingsObjectName="TouchGroup.Properties.Settings" SettingsPropertyName="dbmainConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.[Order]" Member="Orders">
+    <Type Name="Order">
+      <Column Name="ID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="DateTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="TableNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Payment" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Tax" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Service" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="TotalPayment" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="OrderNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OrderCounts" Member="OrderCounts">
+    <Type Name="OrderCount">
+      <Column Name="ID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="count1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count4" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count5" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count6" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count7" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count8" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count9" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count10" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count11" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count12" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count13" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count14" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count15" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count16" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count17" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count18" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count19" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count20" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count21" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count22" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count23" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count24" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count25" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count26" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count27" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count28" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count29" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count30" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count31" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count32" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count33" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count34" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count35" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count36" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count37" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count38" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count39" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="count40" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OrderNames" Member="OrderNames">
+    <Type Name="OrderName">
+      <Column Name="ID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="name1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name3" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name4" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name5" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name6" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name7" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name8" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name9" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name10" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name11" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name12" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name13" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name14" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name15" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name16" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name17" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name18" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name19" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name20" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name21" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name22" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name23" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name24" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name25" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name26" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name27" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name28" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name29" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name30" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name31" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name32" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name33" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name34" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name35" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name36" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name37" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name38" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name39" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="name40" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.OrderPrices" Member="OrderPrices">
+    <Type Name="OrderPrice">
+      <Column Name="ID" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="price1" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price2" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price3" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price4" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price5" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price6" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price7" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price8" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price9" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price10" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price11" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price12" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price13" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price14" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price15" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price16" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price17" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price18" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price19" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price20" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price21" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price22" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price23" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price24" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price25" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price26" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price27" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price28" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price29" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price30" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price31" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price32" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price33" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price34" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price35" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price36" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price37" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price38" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price39" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="price40" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Person" Member="Persons">
+    <Type Name="Person">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Name" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="FatherName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Job" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MeliCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ShenasnameCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Birthday" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Tell" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Fax" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Cell" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PostalCode" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Email" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Website" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LastName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="City" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Setting" Member="Settings">
+    <Type Name="Setting">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Tax" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Service" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="Alarm" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Note" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Theme" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="LogoImage" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Tell" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Address" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="TabletPassword" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Title" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserId" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MessagePersian" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="MessageEnglish" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="BillCount" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="SeqNumber" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextOrderIndex" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextCheckIn" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextCheckOut" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="CheckInterestRate" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="PrinterName1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterName2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterName3" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterName4" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterType1" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterType2" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterType3" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrinterType4" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="PrintAuto1" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PrintAuto2" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PrintAuto3" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="PrintAuto4" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Url" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="NextExitIndex" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextClientIndex" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextFriendIndex" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextEmployeeIndex" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextDocIndex" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="GoodEstimation" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="BillCode" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="NextPDocCode" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="WebUrl" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[User]" Member="Users">
+    <Type Name="User">
+      <Column Name="UserName" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="Password" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Info" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Type" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="policy1" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy2" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy3" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy4" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy5" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy6" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy7" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy8" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy9" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="policy10" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.ProductdGroup" Member="ProductdGroups">
+    <Type Name="ProductdGroup">
+      <Column Name="NamePersian" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NameEnglish" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Productd" Member="Productds">
+    <Type Name="Productd">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="NamePersian" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="NameEnglish" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="InfoPersian" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="InfoEnglish" Type="System.String" DbType="NChar(10)" CanBeNull="true" />
+      <Column Name="Image" Type="System.Data.Linq.Binary" DbType="VarBinary(MAX)" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Price" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Enable" Type="System.Boolean" DbType="Bit" CanBeNull="true" />
+      <Column Name="Rate" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Calories" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Stock" Type="System.Int32" DbType="Int" CanBeNull="true" />
+      <Column Name="Category" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

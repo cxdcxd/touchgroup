@@ -1,0 +1,14 @@
+App Version = 0.0.1.33851
+OS : Microsoft Windows NT 6.1.7601 Service Pack 1
+64 Bit Operating System
+ProcessorCount:  8
+C:\Windows\system32
+UserName:  edwin
+============================================
+7/10/2015 7:48:34 PM [INFO] Splash Started
+7/10/2015 7:48:40 PM [INFO] TCP Server Started
+7/10/2015 7:48:40 PM [INFO] License Server Started
+7/10/2015 7:48:40 PM [INFO] FTP Server Started
+7/10/2015 7:48:54 PM [INFO] TCP Server Stoped
+7/10/2015 7:48:54 PM [INFO] License Server Stoped
+7/10/2015 7:48:54 PM [INFO] FTP Server Stoped

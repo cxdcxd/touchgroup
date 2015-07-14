@@ -1,0 +1,26 @@
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\bin\Debug\key_gen.exe
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\bin\Debug\key_gen.pdb
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.csprojResolveAssemblyReference.cache
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.frmMain.resources
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.Properties.Resources.resources
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.csproj.GenerateResource.Cache
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.exe
+D:\myProjects\emenu\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.pdb
+D:\myProjects\emenu - 560\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.exe
+D:\myProjects\emenu - 560\emenu\master\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.pdb
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\bin\Debug\key_gen.exe
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\bin\Debug\key_gen.pdb
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.csprojResolveAssemblyReference.cache
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.frmMain.resources
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.Properties.Resources.resources
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.csproj.GenerateResource.Cache
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.exe
+D:\myProjects\Emenu\590\myResturant\Restaurant_Server\key_gen\obj\Debug\key_gen.pdb
+D:\myProjects\Emenu\600\TouchGroup\key_gen\bin\Debug\key_gen.exe
+D:\myProjects\Emenu\600\TouchGroup\key_gen\bin\Debug\key_gen.pdb
+D:\myProjects\Emenu\600\TouchGroup\key_gen\obj\Debug\key_gen.csprojResolveAssemblyReference.cache
+D:\myProjects\Emenu\600\TouchGroup\key_gen\obj\Debug\key_gen.frmMain.resources
+D:\myProjects\Emenu\600\TouchGroup\key_gen\obj\Debug\key_gen.Properties.Resources.resources
+D:\myProjects\Emenu\600\TouchGroup\key_gen\obj\Debug\key_gen.csproj.GenerateResource.Cache
+D:\myProjects\Emenu\600\TouchGroup\key_gen\obj\Debug\key_gen.exe
+D:\myProjects\Emenu\600\TouchGroup\key_gen\obj\Debug\key_gen.pdb

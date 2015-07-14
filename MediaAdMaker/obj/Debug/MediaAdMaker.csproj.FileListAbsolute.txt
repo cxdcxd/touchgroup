@@ -1,0 +1,9 @@
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\bin\Debug\WindowsFormsApplication1.exe.config
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\obj\Debug\WindowsFormsApplication1.exe
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\obj\Debug\WindowsFormsApplication1.pdb
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\bin\Debug\WindowsFormsApplication1.exe
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\bin\Debug\WindowsFormsApplication1.pdb
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\obj\Debug\MediaAdMaker.csprojResolveAssemblyReference.cache
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\myProjects\Emenu\600\TouchGroup\MediaAdMaker\obj\Debug\MediaAdMaker.csproj.GenerateResource.Cache

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TouchGroup", "TouchGroup\TouchGroup.csproj", "{2C7F914B-C4E6-4BDE-8194-D1968FA643A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "key_gen", "key_gen\key_gen.csproj", "{2BFF0F0D-8818-49F4-AE59-EAC17E709FBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaAdMaker", "MediaAdMaker\MediaAdMaker.csproj", "{00C72593-1344-480B-8630-EBEABE7E31F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C7F914B-C4E6-4BDE-8194-D1968FA643A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C7F914B-C4E6-4BDE-8194-D1968FA643A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C7F914B-C4E6-4BDE-8194-D1968FA643A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C7F914B-C4E6-4BDE-8194-D1968FA643A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BFF0F0D-8818-49F4-AE59-EAC17E709FBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BFF0F0D-8818-49F4-AE59-EAC17E709FBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BFF0F0D-8818-49F4-AE59-EAC17E709FBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BFF0F0D-8818-49F4-AE59-EAC17E709FBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C72593-1344-480B-8630-EBEABE7E31F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C72593-1344-480B-8630-EBEABE7E31F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C72593-1344-480B-8630-EBEABE7E31F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C72593-1344-480B-8630-EBEABE7E31F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

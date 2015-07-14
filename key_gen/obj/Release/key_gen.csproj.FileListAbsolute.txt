@@ -1,0 +1,8 @@
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\bin\Release\key_gen.exe
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\bin\Release\key_gen.pdb
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\obj\Release\key_gen.csprojResolveAssemblyReference.cache
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\obj\Release\key_gen.Properties.Resources.resources
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\obj\Release\key_gen.csproj.GenerateResource.Cache
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\obj\Release\key_gen.exe
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\obj\Release\key_gen.pdb
+D:\Files\myResturant2\myResturant\Restaurant_Server\key_gen\obj\Release\key_gen.frmMain.resources
